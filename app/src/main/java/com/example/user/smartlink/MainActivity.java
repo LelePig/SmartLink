@@ -128,6 +128,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 this.mAuthMode = this.AuthModeWPA;
             }
         }
+//        WPA/WPA2 PSK  9
+//        WPA2 PSK      7
+//        WPA PSK       4
+//        WPA/WPA2 EAP  8
+//        WPA2 EAP      6
+//        WPA EAP       3
+//        其它          0
 
     }
     //获取当前连接wifi

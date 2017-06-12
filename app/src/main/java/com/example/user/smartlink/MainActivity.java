@@ -161,10 +161,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return wifiNetworkInfo.isConnected();
     }
 
-    /**
-     * 获取手机wifi列表
-     * @return
-     */
     public List<ScanResult> getLists() {
         WifiManager wifiManager=(WifiManager)context.getSystemService(Context.WIFI_SERVICE);
         wifiManager.startScan();

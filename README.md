@@ -27,4 +27,5 @@ Step 1.Add it in your root build.gradle at the end of repositories:
         WPA/WPA2 EAP    8
         WPA2 EAP        6        
         WPA EAP         3
-        其它            0       
+        其它            0
+         三十几

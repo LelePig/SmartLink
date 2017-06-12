@@ -162,7 +162,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     /**
-     * 获取wifi列表
+     * 获取手机wifi列表
      * @return
      */
     public List<ScanResult> getLists() {

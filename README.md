@@ -32,5 +32,4 @@ Step 1.Add it in your root build.gradle at the end of repositories:
         WPA EAP         3
         其它            0    
 jcenter
-===
 compile 'com.lele.smartlink:smartlinklibrary:0.0.1'

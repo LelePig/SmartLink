@@ -1,4 +1,7 @@
+ [ ![Download](https://api.bintray.com/packages/fangxiaole/maven/SmartLink/images/download.svg) ](https://bintray.com/fangxiaole/maven/SmartLink/_latestVersion)
 # SmartLink
+jitpack
+===
 ## 1.配置  
 Step 1.Add it in your root build.gradle at the end of repositories:  
 
@@ -27,4 +30,7 @@ Step 1.Add it in your root build.gradle at the end of repositories:
         WPA/WPA2 EAP    8
         WPA2 EAP        6        
         WPA EAP         3
-        其它            0       
+        其它            0    
+jcenter
+===
+compile 'com.lele.smartlink:smartlinklibrary:0.0.1'

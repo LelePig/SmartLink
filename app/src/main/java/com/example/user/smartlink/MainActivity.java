@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         elianNative=new ElianNative();
         boolean isLoad=elianNative.LoadLib();
         regFilter();
-        Log.e("leleTest","leleTest test");
+        Log.e("leleTest","lele like");
 
     }
     public void regFilter(){
